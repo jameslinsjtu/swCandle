@@ -1,0 +1,1137 @@
+step size is 4
+bsize is 1024
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 512
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 256
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 128
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 64
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 32
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 16
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 8
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 4
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 2
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 1
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+step size is 16
+bsize is 1024
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 512
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 256
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 128
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 64
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 32
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 16
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 8
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 4
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 2
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `__expt_handler': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/swgcc-binary/sw_64thl-unknown-linux-gnu/lib/libpthread.a(pthread_create.o): In function `list_add':../nptl/sysdeps/pthread/list.h:49: additional relocation overflows omitted from the output
+collect2: ld returned 1 exit status
+bsize is 1
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `__expt_handler': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/swgcc-binary/sw_64thl-unknown-linux-gnu/lib/libpthread.a(pthread_create.o): In function `list_add':../nptl/sysdeps/pthread/list.h:49: additional relocation overflows omitted from the output
+collect2: ld returned 1 exit status
+step size is 64
+bsize is 1024
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 512
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 256
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 128
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 64
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 32
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 16
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 8
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `__expt_handler': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/swgcc-binary/sw_64thl-unknown-linux-gnu/lib/libpthread.a(pthread_create.o): In function `list_add':../nptl/sysdeps/pthread/list.h:49: additional relocation overflows omitted from the output
+collect2: ld returned 1 exit status
+bsize is 4
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `__expt_handler': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/swgcc-binary/sw_64thl-unknown-linux-gnu/lib/libpthread.a(pthread_create.o): In function `list_add':../nptl/sysdeps/pthread/list.h:49: additional relocation overflows omitted from the output
+collect2: ld returned 1 exit status
+bsize is 2
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `__expt_handler': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/swgcc-binary/sw_64thl-unknown-linux-gnu/lib/libpthread.a(pthread_create.o): In function `list_add':../nptl/sysdeps/pthread/list.h:49: additional relocation overflows omitted from the output
+collect2: ld returned 1 exit status
+bsize is 1
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `__expt_handler': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/swgcc-binary/sw_64thl-unknown-linux-gnu/lib/libpthread.a(pthread_create.o): In function `list_add':../nptl/sysdeps/pthread/list.h:49: additional relocation overflows omitted from the output
+collect2: ld returned 1 exit status
+step size is 256
+bsize is 1024
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 512
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 256
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 128
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 64
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+bsize is 32
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `__expt_handler': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/swgcc-binary/sw_64thl-unknown-linux-gnu/lib/libpthread.a(pthread_create.o): In function `list_add':../nptl/sysdeps/pthread/list.h:49: additional relocation overflows omitted from the output
+collect2: ld returned 1 exit status
+bsize is 16
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `__expt_handler': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/swgcc-binary/sw_64thl-unknown-linux-gnu/lib/libpthread.a(pthread_create.o): In function `list_add':../nptl/sysdeps/pthread/list.h:49: additional relocation overflows omitted from the output
+collect2: ld returned 1 exit status
+bsize is 8
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `__expt_handler': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/swgcc-binary/sw_64thl-unknown-linux-gnu/lib/libpthread.a(pthread_create.o): In function `list_add':../nptl/sysdeps/pthread/list.h:49: additional relocation overflows omitted from the output
+collect2: ld returned 1 exit status
+bsize is 4
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `__expt_handler': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/swgcc-binary/sw_64thl-unknown-linux-gnu/lib/libpthread.a(pthread_create.o): In function `list_add':../nptl/sysdeps/pthread/list.h:49: additional relocation overflows omitted from the output
+collect2: ld returned 1 exit status
+bsize is 2
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `__expt_handler': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/swgcc-binary/sw_64thl-unknown-linux-gnu/lib/libpthread.a(pthread_create.o): In function `list_add':../nptl/sysdeps/pthread/list.h:49: additional relocation overflows omitted from the output
+collect2: ld returned 1 exit status
+bsize is 1
+stream_athread_slave_simd_intrinsic_dma.c: In function 'fun':
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:60: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:62: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:74: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:83: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:97: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:98: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:108: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:120: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_main.c:201: warning: integer overflow in expression
+stream_athread_main.c:201: warning: integer overflow in expression
+stream_athread_main.c:201: error: size of array 'a' is negative
+stream_athread_main.c:202: warning: integer overflow in expression
+stream_athread_main.c:202: warning: integer overflow in expression
+stream_athread_main.c:202: error: size of array 'b' is negative
+stream_athread_main.c:203: warning: integer overflow in expression
+stream_athread_main.c:203: warning: integer overflow in expression
+stream_athread_main.c:203: error: size of array 'c' is negative
+stream_athread_main.c: In function 'main':
+stream_athread_main.c:298: warning: integer overflow in expression
+stream_athread_main.c:317: warning: integer overflow in expression
+stream_athread_main.c:349: warning: integer overflow in expression
+stream_athread_main.c:372: warning: integer overflow in expression
+stream_athread_main.c:401: warning: integer overflow in expression
+stream_athread_main.c:430: warning: integer overflow in expression
+stream_athread_main.c: In function 'checkSTREAMresults':
+stream_athread_main.c:573: warning: integer overflow in expression
+stream_athread_main.c:600: warning: integer overflow in expression
+stream_athread_main.c:619: warning: integer overflow in expression
+stream_athread_main.c:638: warning: integer overflow in expression
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `__expt_handler': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/swgcc-binary/sw_64thl-unknown-linux-gnu/lib/libpthread.a(pthread_create.o): In function `list_add':../nptl/sysdeps/pthread/list.h:49: additional relocation overflows omitted from the output
+collect2: ld returned 1 exit status

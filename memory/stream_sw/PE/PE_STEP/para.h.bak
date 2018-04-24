@@ -1,0 +1,9 @@
+#ifndef _PARA_H
+#define _PARA_H
+
+#define BSIZE 1024
+#define STEP_SIZE 1
+#define SS STEP_SIZE
+#define BS BSIZE 
+
+#endif

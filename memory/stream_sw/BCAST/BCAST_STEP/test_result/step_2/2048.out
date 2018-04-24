@@ -1,0 +1,46 @@
+Job <5485415> has been submitted to queue <q_sw_nofull>
+waiting for dispatch ...
+[5485415 ## Wed Sep 28 12:51:48 2016] receive request of kill job(Crtl`C).
+==================================================================
+STREAM version $Revision: 5.10 $
+==================================================================
+This system uses 8 bytes per array element.
+==================================================================
+Array size = 12595200 (elements), Offset = 0 (elements)
+Memory per array = 96.1 MiB (= 0.1 GiB).
+Total memory required = 288.3 MiB (= 0.3 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+==================================================================
+Your clock granularity/precision appears to be 2 microseconds.
+Each test below will take on the order of 119336 microseconds.
+   (= 59668 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+==================================================================
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+==================================================================
+BSIZE:2048 STEP_SIZE:2
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:          410712.5     0.000249     0.000245     0.000250
+Scale:         226752.1     0.000447     0.000444     0.000448
+Add:           287121.7     0.000706     0.000701     0.000708
+Triad:         287219.4     0.000705     0.000701     0.000707
+==================================================================
+==================================================================
+[5485415 ## Wed Sep 28 12:51:50 2016] receive request of kill job(Crtl`C).
+[5485415 ## Wed Sep 28 12:51:50 2016] receive request of kill job(Crtl`C).
+[5485415 ## Wed Sep 28 12:51:50 2016] receive request of kill job(Crtl`C).
+[5485415 ## Wed Sep 28 12:51:50 2016] receive request of kill job(Crtl`C).
+[5485415 ## Wed Sep 28 12:51:51 2016] receive request of kill job(Crtl`C).
+dispatching ...
+Job <5485415> is being terminated
+Job <5485415> is being terminated
+Job <5485415> is being terminated
+Job <5485415> is being terminated
+Job <5485415> is being terminated
+Job <5485415> is being terminated
+Job 5485415 has been finished. exit_code is 101

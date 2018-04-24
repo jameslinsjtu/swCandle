@@ -1,0 +1,198 @@
+hit rate is 0, branch level 1
+Job <40264102> has been submitted to queue <q_sw_share>
+waiting for dispatch ...
+Start to initialize matrix A,B,C
+BLock size is 1
+Thread number is 0
+Initialization cost  1.624885 s
+get from 0 09[ 1.000000e+00, 1.000000e+00, 1.000000e+00, 1.000000e+00 ]
+       30532512              0              0              0              0              0              0       30803392
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0       30784173
+              0              0              0              0              0              0              0       30775771
+              0              0              0              0              0              0              0       30775554
+              0              0              0              0              0              0              0       30773604
+dispatching ...
+Job 40264102 has been finished.
+hit rate is 1, branch level 1
+Job <40264106> has been submitted to queue <q_sw_share>
+waiting for dispatch ...
+Start to initialize matrix A,B,C
+BLock size is 1
+Thread number is 1
+Initialization cost  1.624372 s
+get from 0 09[ 1.000000e+00, 1.000000e+00, 1.000000e+00, 1.000000e+00 ]
+       29235944              0              0              0              0              0              0       29502764
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0       29478552
+              0              0              0              0              0              0              0       29472917
+              0              0              0              0              0              0              0       29471153
+              0              0              0              0              0              0              0       29470061
+dispatching ...
+Job 40264106 has been finished.
+hit rate is 2, branch level 1
+Job <40264107> has been submitted to queue <q_sw_share>
+waiting for dispatch ...
+Start to initialize matrix A,B,C
+BLock size is 1
+Thread number is 2
+Initialization cost  1.624455 s
+get from 0 09[ 1.000000e+00, 1.000000e+00, 1.000000e+00, 1.000000e+00 ]
+       27936002              0              0              0              0              0              0       28208842
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0       28183768
+              0              0              0              0              0              0              0       28179169
+              0              0              0              0              0              0              0       28177836
+              0              0              0              0              0              0              0       28176722
+dispatching ...
+Job 40264107 has been finished.
+hit rate is 3, branch level 1
+Job <40264111> has been submitted to queue <q_sw_share>
+waiting for dispatch ...
+Start to initialize matrix A,B,C
+BLock size is 1
+Thread number is 3
+Initialization cost  1.624503 s
+get from 0 09[ 1.000000e+00, 1.000000e+00, 1.000000e+00, 1.000000e+00 ]
+       26632312              0              0              0              0              0              0       26906735
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0       26887349
+              0              0              0              0              0              0              0       26879571
+              0              0              0              0              0              0              0       26878918
+              0              0              0              0              0              0              0       26877344
+dispatching ...
+Job 40264111 has been finished.
+hit rate is 4, branch level 1
+Job <40264114> has been submitted to queue <q_sw_share>
+waiting for dispatch ...
+Start to initialize matrix A,B,C
+BLock size is 1
+Thread number is 4
+Initialization cost  1.624633 s
+get from 0 09[ 1.000000e+00, 1.000000e+00, 1.000000e+00, 1.000000e+00 ]
+       25334678              0              0              0              0              0              0       25607349
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0       25587334
+              0              0              0              0              0              0              0       25582347
+              0              0              0              0              0              0              0       25579613
+              0              0              0              0              0              0              0       25577073
+dispatching ...
+Job 40264114 has been finished.
+hit rate is 5, branch level 1
+Job <40264118> has been submitted to queue <q_sw_share>
+waiting for dispatch ...
+Start to initialize matrix A,B,C
+BLock size is 1
+Thread number is 5
+Initialization cost  1.625964 s
+get from 0 09[ 1.000000e+00, 1.000000e+00, 1.000000e+00, 1.000000e+00 ]
+       24031572              0              0              0              0              0              0       24302141
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0       24283036
+              0              0              0              0              0              0              0       24277021
+              0              0              0              0              0              0              0       24275062
+              0              0              0              0              0              0              0       24273442
+dispatching ...
+Job 40264118 has been finished.
+hit rate is 6, branch level 1
+Job <40264121> has been submitted to queue <q_sw_share>
+waiting for dispatch ...
+Start to initialize matrix A,B,C
+BLock size is 1
+Thread number is 6
+Initialization cost  1.624241 s
+get from 0 09[ 1.000000e+00, 1.000000e+00, 1.000000e+00, 1.000000e+00 ]
+       22731676              0              0              0              0              0              0       23000817
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0       22981340
+              0              0              0              0              0              0              0       22976086
+              0              0              0              0              0              0              0       22973544
+              0              0              0              0              0              0              0       22972834
+dispatching ...
+Job 40264121 has been finished.
+hit rate is 7, branch level 1
+Job <40264125> has been submitted to queue <q_sw_share>
+waiting for dispatch ...
+Start to initialize matrix A,B,C
+BLock size is 1
+Thread number is 7
+Initialization cost  1.624790 s
+get from 0 09[ 1.000000e+00, 1.000000e+00, 1.000000e+00, 1.000000e+00 ]
+       21431665              0              0              0              0              0              0       21719041
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0       21699458
+              0              0              0              0              0              0              0       21691864
+              0              0              0              0              0              0              0       21691667
+              0              0              0              0              0              0              0       21689730
+dispatching ...
+Job 40264125 has been finished.
+hit rate is 8, branch level 1
+Job <40264128> has been submitted to queue <q_sw_share>
+waiting for dispatch ...
+Start to initialize matrix A,B,C
+BLock size is 1
+Thread number is 8
+Initialization cost  1.624332 s
+get from 0 09[ 1.000000e+00, 1.000000e+00, 1.000000e+00, 1.000000e+00 ]
+       20131795              0              0              0              0              0              0       20405872
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0       20384449
+              0              0              0              0              0              0              0       20379398
+              0              0              0              0              0              0              0       20379048
+              0              0              0              0              0              0              0       20376596
+dispatching ...
+Job 40264128 has been finished.
+hit rate is 9, branch level 1
+Job <40264132> has been submitted to queue <q_sw_share>
+waiting for dispatch ...
+Start to initialize matrix A,B,C
+BLock size is 1
+Thread number is 9
+Initialization cost  1.628051 s
+get from 0 09[ 1.000000e+00, 1.000000e+00, 1.000000e+00, 1.000000e+00 ]
+       18830887              0              0              0              0              0              0       19102065
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0       19081992
+              0              0              0              0              0              0              0       19076698
+              0              0              0              0              0              0              0       19076008
+              0              0              0              0              0              0              0       19074292
+dispatching ...
+Job 40264132 has been finished.
+hit rate is 10, branch level 1
+Job <40264134> has been submitted to queue <q_sw_share>
+waiting for dispatch ...
+Start to initialize matrix A,B,C
+BLock size is 1
+Thread number is 10
+Initialization cost  1.624744 s
+get from 0 09[ 1.000000e+00, 1.000000e+00, 1.000000e+00, 1.000000e+00 ]
+       18429831              0              0              0              0              0              0       18699833
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0              0
+              0              0              0              0              0              0              0       18681408
+              0              0              0              0              0              0              0       18676051
+              0              0              0              0              0              0              0       18673866
+              0              0              0              0              0              0              0       18670892
+dispatching ...
+Job 40264134 has been finished.

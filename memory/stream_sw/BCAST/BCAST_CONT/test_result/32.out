@@ -1,0 +1,34 @@
+Job <5485375> has been submitted to queue <q_sw_nofull>
+waiting for dispatch ...
+==================================================================
+STREAM version $Revision: 5.10 $
+==================================================================
+This system uses 8 bytes per array element.
+==================================================================
+Array size = 40960 (elements), Offset = 0 (elements)
+Memory per array = 0.3 MiB (= 0.0 GiB).
+Total memory required = 0.9 MiB (= 0.0 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+==================================================================
+Your clock granularity/precision appears to be 2 microseconds.
+Each test below will take on the order of 334 microseconds.
+   (= 167 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+==================================================================
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+==================================================================
+BSIZE:32 STEP_SIZE:0
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           10907.9     0.000034     0.000030     0.000037
+Scale:          11265.5     0.000033     0.000029     0.000035
+Add:            22531.0     0.000034     0.000029     0.000035
+Triad:          21815.7     0.000034     0.000030     0.000035
+==================================================================
+==================================================================
+dispatching ...
+Job 5485375 has been finished.

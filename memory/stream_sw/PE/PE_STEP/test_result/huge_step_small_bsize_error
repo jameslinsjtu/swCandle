@@ -1,0 +1,16 @@
+stream_athread_slave_simd_intrinsic_dma.c:121: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 2 of '__builtin_sw64_dma' makes integer from pointer without a cast
+stream_athread_slave_simd_intrinsic_dma.c:131: warning: passing argument 3 of '__builtin_sw64_dma' makes integer from pointer without a cast
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `parse_spe_exception': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(athread_expt.o): In function `__expt_handler': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `adelete': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `__malloc_locks_reinit': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/sw5gcc-binary/bin/../lib/gcc/sw_64thl-unknown-linux-gnu/4.1.2/../../../../sw_64thl-unknown-linux-gnu/lib/libathread.a(malloc_unix_sw3host.o): In function `acreate': relocation truncated to fit: GPRELHIGH against `.bss'
+/usr/sw-mpp/swcc/swgcc-binary/sw_64thl-unknown-linux-gnu/lib/libpthread.a(pthread_create.o): In function `list_add':../nptl/sysdeps/pthread/list.h:49: additional relocation overflows omitted from the output
+collect2: ld returned 1 exit status
+Filename "./stream" you specified is not exist or was a dangling symbolic link.

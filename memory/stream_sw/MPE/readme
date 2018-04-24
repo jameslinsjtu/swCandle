@@ -1,0 +1,8 @@
+1. how to measure L1:
+	repeat large times of mem access successively with small size of array
+2. how to measure MEM:
+	make array size large, 240000000,eg.
+3. how to measure L2:
+	make L1 miss each time, while L2 hit, refer to KNC microbenchmark paper.
+4. left to be done:
+	besides the previous 3, need inst latency test, throughput test.
